@@ -1,4 +1,4 @@
-# Instaclown
+# 🤡 Instaclown 🤡
 
 To start your Phoenix server:
 
